@@ -1,6 +1,5 @@
 import java.util.Scanner ;
 class MosaicDecoration 
-//class Main
 {
     public static void main(String [] array) 
     {
@@ -71,7 +70,7 @@ class MosaicDecoration
         }
         else
         {
-            System.out.print("Constraints are not meet") ;
+            System.out.print("Constraints are not satisfied") ;
         }
     }   
 }
